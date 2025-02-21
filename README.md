@@ -1,7 +1,7 @@
 <br clear="both">
 
 <div align="center">
-  <img height="500" width="900" src="https://github.com/SuzannaSar/SuzannaSar/blob/main/assets/99px_ru_animacii_41377_devushka_sidit_v_kresle_s_kotom_na_rukah.gif""  />
+  <img height="400" width="700" src="https://github.com/SuzannaSar/SuzannaSar/blob/main/assets/99px_ru_animacii_41377_devushka_sidit_v_kresle_s_kotom_na_rukah.gif""  />
 </div>
 
 ###
@@ -96,7 +96,9 @@
 
 ###
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=SuzannaSar&theme=dark)](https://git.io/streak-stats)
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=SuzannaSar&theme=dark" height="220" alt="streak graph"  />
+</div>
 
 ###
 
@@ -105,6 +107,4 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=SuzannaSar&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
-
-<a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=SuzannaSar&theme=dark" alt="GitHub Streak" /></a>
 ###
